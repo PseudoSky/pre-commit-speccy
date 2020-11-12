@@ -2,8 +2,8 @@
   name: speccy
   entry: speccy lint
   language: node
-  files: "*.{yml, yaml}"
-  args: [--rules=default]
+  types: [yaml]
+  args: []
   additional_dependencies: ["speccy"]
   description: Runs speccy lint on yaml specs.
   minimum_pre_commit_version: '1'
