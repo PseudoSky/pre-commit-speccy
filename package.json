@@ -1,0 +1,9 @@
+{
+  "name": "@adhd/pre-commit-speccy",
+  "version": "0.0.3",
+  "description": "Pre commit hook for speccy",
+  "main": "index.js",
+  "repository": "git@github.com:PseudoSky/pre-commit-speccy.git",
+  "author": "PseudoSky",
+  "license": "MIT"
+}
