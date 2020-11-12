@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:PseudoSky/pre-commit-speccy.git",
   "author": "PseudoSky",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "speccy": "^0.11.0"
+  }
 }
